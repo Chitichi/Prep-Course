@@ -1,5 +1,14 @@
 h1 {
-    color:red
+    color:red;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
 }
 
 img {
@@ -11,10 +20,16 @@ img {
     width: 500px;
     background-color: sandybrown ;
     padding: 50px;
-    border: 10px solid red
+    border: 10px solid red;  
 }
+
 
 #spanId {
     font-size: 18px;
     margin: 50px;
+    text-align: center;
+    
 }
+ body {
+    background-color: burlywood;
+ }
